@@ -34,7 +34,7 @@ Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
 Part 1: Create the Earthquake Visualisation
 
-https://static.bc-edx.com/data/dla-1-2/m15/lms/img/2-BasicMap.jpg 
+![image](https://github.com/Ngot97/leaflet-challenge/assets/150645979/765e1b2d-3a64-43e8-9049-2b4f0cc169fa)
 
 Your first task is to visualise an earthquake dataset. Complete the following steps:
 
@@ -42,11 +42,11 @@ Get your dataset. To do so, follow these steps:
 
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualise. The following image is an example screenshot of what appears when you visit this link:
 
-https://static.bc-edx.com/data/dla-1-2/m15/lms/img/3-Data.jpg 
+![image](https://github.com/Ngot97/leaflet-challenge/assets/150645979/87f63c34-02f3-43a2-9171-44f68671e7a7)
 
 When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualisation. The following image is a sampling of earthquake data in JSON format:
 
-https://static.bc-edx.com/data/dla-1-2/m15/lms/img/4-JSON.jpg
+![image](https://github.com/Ngot97/leaflet-challenge/assets/150645979/f5e0e2ec-50c9-4cc5-906d-a1c17d56ea3d)
 
 Import and visualise the data by doing the following:
 
